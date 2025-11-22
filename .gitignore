@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+backend/course_recommendation.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Excel exports (if generated)
+*.xlsx
+*.xls
+
