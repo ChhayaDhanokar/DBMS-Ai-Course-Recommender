@@ -139,7 +139,7 @@ DBMS/
 
 ## 👨‍💻 Author
 
-**Chhaya Dhanokar**
+**ChhayaDhanokar**
 - GitHub: [@Chhaya Dhanokar]([https://github.com/ChhayaDhanokar])
 - Project: AI Course Recommendation System
 
