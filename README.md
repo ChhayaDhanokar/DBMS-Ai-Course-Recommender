@@ -139,8 +139,8 @@ DBMS/
 
 ## 👨‍💻 Author
 
-**ChhayaDhanokar**
-- GitHub: [@Chhaya Dhanokar]([https://github.com/ChhayaDhanokar])
+**Chhaya Dhanokar**
+- GitHub: [@ChhayaDhanokar]([https://github.com/ChhayaDhanokar])
 - Project: AI Course Recommendation System
 
 ## 📄 License
