@@ -39,7 +39,7 @@ A comprehensive AI-powered course recommendation system built with Streamlit and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PremBorde/DBMS--Ai-Course-Recommender.git
+   git clone https://github.com/ChhayaDhanokar/DBMS-Ai-Course-Recommender/edit/main/README.git
    cd DBMS--Ai-Course-Recommender
    ```
 
