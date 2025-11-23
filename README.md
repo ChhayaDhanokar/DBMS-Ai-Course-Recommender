@@ -139,8 +139,8 @@ DBMS/
 
 ## 👨‍💻 Author
 
-**Prem Borde**
-- GitHub: [@PremBorde](https://github.com/PremBorde)
+**Chhaya Dhanokar**
+- GitHub: [@Chhaya Dhanokar]([https://github.com/ChhayaDhanokar])
 - Project: AI Course Recommendation System
 
 ## 📄 License
